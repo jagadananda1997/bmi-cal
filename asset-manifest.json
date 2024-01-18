@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmi-cal/static/css/main.15ac34f7.css",
+    "main.js": "/bmi-cal/static/js/main.a5c819eb.js",
+    "static/js/787.2cdacd14.chunk.js": "/bmi-cal/static/js/787.2cdacd14.chunk.js",
+    "index.html": "/bmi-cal/index.html",
+    "main.15ac34f7.css.map": "/bmi-cal/static/css/main.15ac34f7.css.map",
+    "main.a5c819eb.js.map": "/bmi-cal/static/js/main.a5c819eb.js.map",
+    "787.2cdacd14.chunk.js.map": "/bmi-cal/static/js/787.2cdacd14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ac34f7.css",
+    "static/js/main.a5c819eb.js"
+  ]
+}
